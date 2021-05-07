@@ -21,7 +21,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 ----------
 
 ###  :gear: Funções
-- [x] CRUD de Usuários;
+- [x] CRUD de Usuários com Telefones;
 - [x] CRUD de Produtos;
 - [x] Painel Administrador.
 

@@ -1,6 +1,6 @@
 ## Servlets com JavaServer Pages e JDBC
 
-###  :computer: Tela
+###  :desktop_computer: Tela
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
@@ -9,26 +9,26 @@
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construÁ„o do projeto:
+As seguintes tecnologias foram utilizadas na constru√ß√£o do projeto:
 - Servlets e JavaServer Pages;
 - JDBC;
 - Banco de Dados - PostgreSQL;
 - Apache Tomcat;
-- Padr„o MVC com Java;
+- Padr√£o MVC com Java;
 - Eclipse.
 
 
 ----------
 
-###  :gear: FunÁıes
-- [x] CRUD de Usu·rios;
+###  :gear: Fun√ß√µes
+- [x] CRUD de Usu√°rios;
 - [x] CRUD de Produtos;
 - [x] Painel Administrador.
 
 ----------
 
 ###  :eyeglasses: Autor
-JosÈ Gustavo da Silva.
+Jos√© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
